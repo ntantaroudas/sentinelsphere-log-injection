@@ -1,5 +1,7 @@
 # Instructions hidden in log fields, measuring prompt injection against a local security assistant and two detector informed defences
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23410156.svg)](https://doi.org/10.5281/zenodo.23410156)
+
 Code and data for the Open Research Europe article "Instructions hidden in log fields, measuring prompt injection against a local security assistant and two detector informed defences" by Nikolaos D. Tantaroudas, Ilias Karachalios and Andrew J. McCracken, a follow on study of the SentinelSphere platform carried out under the Horizon Europe project ResilMesh, Grant Agreement No. 101119681.
 
 ## Contents and how to reproduce
@@ -18,4 +20,4 @@ The code is released under the MIT License, see `LICENSE`. The aggregated result
 
 ## Citation
 
-Please cite the article, and this repository through its Zenodo DOI once a release has been archived, see `CITATION.cff`.
+Please cite the article, and this repository through its Zenodo DOI, https://doi.org/10.5281/zenodo.23410156, see `CITATION.cff`.
