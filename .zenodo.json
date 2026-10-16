@@ -1,0 +1,31 @@
+{
+  "title": "Instructions hidden in log fields, measuring prompt injection against a local security assistant and two detector informed defences",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Tantaroudas, Nikolaos D.",
+      "affiliation": "Institute of Communication and Computer Systems (ICCS), National Technical University of Athens"
+    },
+    {
+      "name": "Karachalios, Ilias",
+      "affiliation": "University of Thessaly"
+    },
+    {
+      "name": "McCracken, Andrew J.",
+      "affiliation": "DASKALOS APPS SAS"
+    }
+  ],
+  "keywords": [
+    "prompt injection",
+    "security operations",
+    "large language models",
+    "log analysis"
+  ],
+  "grants": [
+    {
+      "id": "10.13039/501100000780::101119681"
+    }
+  ],
+  "description": "Code and aggregated results for the Open Research Europe article \"Instructions hidden in log fields, measuring prompt injection against a local security assistant and two detector informed defences\"."
+}
